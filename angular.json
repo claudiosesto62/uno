@@ -71,7 +71,8 @@
               "browserTarget": "uno:build:production"
             },
             "development": {
-              "browserTarget": "uno:build:development"
+              "browserTarget": "uno:build:development",
+              "ssl": true
             }
           },
           "defaultConfiguration": "development"
